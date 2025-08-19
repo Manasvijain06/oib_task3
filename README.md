@@ -1,7 +1,7 @@
 # **Sales Prediction using Python** 🚀  
 
 # *Overview**  
-This project predicts **sales revenue** based on advertising budgets using **Machine Learning in Python**. It utilizes **Linear Regression** to analyze the impact of TV, Radio, and Newspaper advertisements on sales.  
+ predicts **sales revenue** based on advertising budgets using **Machine Learning in Python**. It utilizes **Linear Regression** to analyze the impact of TV, Radio, and Newspaper advertisements on sales.  
 
 ### **Features**  
 ✅ Load and preprocess dataset 📂  
